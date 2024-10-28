@@ -1,4 +1,6 @@
-#prompt-dolla 
+# prompt-dolla 
+
+---
 
 # Unlocking New Possibilities: Embedding Language Models into Database Workflows
 
