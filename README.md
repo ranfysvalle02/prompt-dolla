@@ -2,7 +2,7 @@
 
 ---
 
-# Unlocking New Possibilities: Embedding Language Models into Database Workflows
+# A new frontier: Embedding Language Models into Database Workflows
 
 *Imagine if your database could not only store and retrieve data but also understand it, summarize it, and provide insights—all within your existing query workflows. Sounds exciting, right? Let's explore how integrating language models into databases is turning this vision into reality.*
 
